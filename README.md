@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay-G97
-- 👀 I’m interested in working on Web RESTful API's and Angular Projects
-- 🌱 I’m currently learning Angular and End to End Software development life cycle
-- 💞️ I’m looking to collaborate on Innovative projects
+- 👀 I’m interested in working on Micro/Mini Services and Angular Projects
+- 🌱 I’m currently learning Angular and Software development life cycle
+- 💞️ I’m looking to collaborate on Innovative projects.
 - 📫 How to reach me - MailTo - gulaveakshay@gmail.com.
 
 <!---
